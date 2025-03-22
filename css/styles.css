@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+
+header {
+  font-family: "Lilita One", sans-serif;
+}
+
+.logo {
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  background-color: transparent;
+  font-size: 5rem;
+  text-align: center;
+}
